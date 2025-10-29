@@ -1,14 +1,14 @@
-# 🚀 Razorpay Clone
+#  Razorpay Clone
 
 A responsive clone of Razorpay’s landing page built with **Vite** and **Tailwind CSS**.
 
-## ✨ Features
+##  Features
 - Fully responsive UI  
 - Modern design with Tailwind CSS  
 - Optimized performance with Vite  
 - Smooth animations & transitions  
 
-## ⚡ Tech Stack
+##  Tech Stack
 - **Vite** – Fast build tool  
 - **Tailwind CSS** – Utility-first CSS framework  
 - **React** (if applicable)  
